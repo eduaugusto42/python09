@@ -1,0 +1,8 @@
+# Subject
+en.subject.pdf
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.mypy_cache/
